@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Wallmart Releases Nexus Repository</name>
-	      <url>http://13.235.78.151:8081/repository/wallmart-release/</url>
+	      <name>War Releases Nexus Repository</name>
+	      <url>http://65.2.37.220:8081/repository/war-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Wallmart Snapshot Nexus Repository </name>
-	      <url>http://13.235.78.151:8081/repository/wallmart-snapshot/</url>
+	      <name>War Snapshot Nexus Repository </name>
+	      <url>http://65.2.37.220:8081/repository/war-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
